@@ -55,8 +55,8 @@ The second dashboard focuses on logistics and customer feedback. Its main elemen
 - On the "Logistics and Feedback" dashboard, the map and charts allow for analyzing delivery data and customer feedback.
 
 ## Screenshots
-![Financial Analysis]([link_to_financial_analysis_screenshot](https://imgur.com/a/JH0TtXY))
-![Logistics and Feedback](link_to_logistics_feedback_screenshot)
+![Financial Analysis](https://i.imgur.com/GaGgL9u.png)
+![Logistics and Feedback](https://i.imgur.com/vrITBHg.png)
 
 ## Documentation Links
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
