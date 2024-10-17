@@ -46,7 +46,7 @@ The second dashboard focuses on logistics and customer feedback. Its main elemen
 
 ## Installation
 1. Download the files from the repository.
-2. Open the `.pbix` file in Power BI Desktop.
+2. Open the `Projekt Olis.pbix` file in Power BI Desktop.
 3. Configure the data connection if necessary.
 
 ## Usage
